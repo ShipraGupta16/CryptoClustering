@@ -40,7 +40,7 @@ Following tasks were completed:
 
    The **elbow curve 2** for the PCA data shows lower inertia value compared to the elbow curve for the original data elbow curve 1. This indicates that    using less features reduces the sum of squared distances within the clusters. A lower inertia value suggests better clustering and tighter grouping      of data points within each cluster.
 
-![Screenshot 2023-10-17 at 12 34 54 AM](https://github.com/ShipraGupta16/CryptoClustering/assets/25715747/5d20cebf-61c7-4721-ace7-1a71fbffd38c)
+![Screenshot 2023-10-17 at 12 47 16 AM](https://github.com/ShipraGupta16/CryptoClustering/assets/25715747/f658af34-f1ca-4fab-9eef-6911c2c30147)
 
 
    **Cluster plot 1** using the original data: Here the clusters (0, 1, 2) are overlapping, and there is no clear separation. This suggests that using        the original data with more features may not effectively capture the underlying patterns of the data for clustering process.
