@@ -12,7 +12,8 @@ Following tasks were completed:
 
 3) Used the elbow method to find the best value for k which came out to be 4.
 
-![Screenshot 2023-10-17 at 12 04 53 AM](https://github.com/ShipraGupta16/CryptoClustering/assets/25715747/609dbd68-2606-406e-b4b0-cf84ae842614)
+![Screenshot 2023-10-17 at 12 08 28 AM](https://github.com/ShipraGupta16/CryptoClustering/assets/25715747/8a11f0a6-9997-4fb3-b6ff-2e542250082c)
+
 
 4) Clustered the cryptocurrencies for the best value for k on the original scaled data and created a scatter plot using hvPlot.
 
